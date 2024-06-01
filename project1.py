@@ -1,3 +1,3 @@
 n=5
-string="Hello "
-print(string * n)
+string="Helloooo "
+print(string * (n+2)
